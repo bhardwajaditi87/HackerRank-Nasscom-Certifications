@@ -1,0 +1,9 @@
+#Task 1
+"""
+print hello world string
+"""
+
+print("Hello, World!")
+
+Output:
+Hello, World!
